@@ -1,4 +1,6 @@
-# CS4248-Team15-LUN
+# CS4248 Team15LUN
+
+Team 15 members: Kok Jen Yee, Soo Wei Kang, Kelvin, Li Jiahe, Tang Yuxuan, Zhang Yuanxing
 
 This folder contains all the project materials for CS4248 AY2223 Sem2 Team 15. The GitHub repo can be found [here](https://github.com/ljhgabe/CS4248-Team15-LUN). 
 
